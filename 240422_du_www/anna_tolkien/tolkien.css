@@ -1,0 +1,36 @@
+.proTriPrvky {
+  border: solid gray thick;
+  background-color: rgba(255,255,255,0.8);
+}
+.proZivotopis {
+  text-indent: 2em;
+}
+#proDila {
+  background-color: tan;
+}
+ul {
+  line-height: 1.5;
+}
+#proZaverecnyOdstavec {
+  font-variant: small-caps;
+  background-color: navajowhite;
+  text-align: center;
+  text-decoration-line: overline;
+}
+.obrazekBezObtekani {
+  float: none;
+  vertical-align: middle;
+}
+span {
+  color: saddlebrown;
+}
+.knizky {
+  float: right;
+}
+body {
+  background-color: navajowhite;
+  background-image: url("https://openclipart.org/image/400px/319543");
+}
+blockquote {
+  font-style: italic;
+}

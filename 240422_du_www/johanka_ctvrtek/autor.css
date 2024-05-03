@@ -1,0 +1,38 @@
+.proTriPrvky {
+  border: thick solid gray;
+  background-color: rgba(255,255,255,0.8);
+}
+.proZivotopis {
+    text-indent: 2em;
+    font-style: italic;
+    color: rgb(26, 26, 26);
+}
+#proDila 
+{
+    background-color: rgb(255, 255, 230);
+}
+ul {
+  /*výška øádku: jeden a pùl*/;
+}
+#proZaverecnyOdstavec 
+{
+  font-variant: small-caps;
+  color: rgb(255, 255, 0);
+}
+.obrazekBezObtekani {
+    float: none;
+    vertical-align: text-bottom;
+}
+img {
+    float: right;
+    vertical-align: middle;
+}
+body {
+    background-image: url('kytickyyy.jpg')
+}
+span {
+    color: rgb(115, 115, 115);
+}
+.nejznamejsi {
+    color: tomato;
+}

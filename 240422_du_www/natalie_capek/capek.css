@@ -1,0 +1,39 @@
+.proTriPrvky {
+  border: solid gray thick;
+  background-color: rgba(255,255,255,0.8);
+}
+.proZivotopis {
+   text-indent: 2em;
+}
+#proDila {
+  background-color: #8d9db6;
+}
+ul {
+  line-height: 1.5;
+}
+#proZaverecnyOdstavec {
+  font-variant: small-caps;
+  background-color: #f0f0f0;
+  text-align: center;
+  text-decoration-line:overline;
+}
+.obrazekBezObtekani {
+  float: right;
+  vertical-align: middle;
+}
+span{
+color: #667292;   
+}
+
+.knizky{
+float:right;
+
+}
+body{ 
+background-color: #f0f0f0;
+background-image: url("https://cdn.pixabay.com/photo/2020/04/27/17/35/books-5100844_1280.jpg") ;
+}
+
+blockquote {
+font-style: italiec;
+}

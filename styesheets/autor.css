@@ -1,0 +1,39 @@
+.proTriPrvky {
+    border: solid gray thick;
+    background-color: rgba(255,255,255,0.8);
+  }
+  .proZivotopis {
+     text-indent: 3em;
+  }
+  #proDila {
+    background-color: #d88e1e;
+  }
+  ul {
+    line-height: 1.5;
+  }
+  #proZaverecnyOdstavec {
+    font-variant: small-caps;
+    background-color: #f0f0f0;
+    text-align: center;
+    text-decoration-line:overline;
+  }
+  .obrazekBezObtekani {
+    float: right;
+    vertical-align: middle;
+  }
+  span{
+  color: #5d6a8d;   
+  }
+  
+  .knizky{
+  float:right;
+  
+  }
+  body{ 
+  background-color: #ffffff
+  }
+  
+  blockquote {
+  font-style: italic;
+      }
+  

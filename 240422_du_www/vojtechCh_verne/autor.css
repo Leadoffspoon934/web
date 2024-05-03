@@ -1,0 +1,58 @@
+body {
+	background-image: url("https://cdn.mos.cms.futurecdn.net/8auSoyuxtCXyYF4ahQZVPM.jpg");
+}
+img{
+	float: left;
+}
+h1{
+	float: left;
+}
+.prvniodstavec{
+	background-color: rgba(255,255,255,0.8);
+	border-style: solid;
+	border-color: gray;
+	border-width: 5px;
+}
+.seznamLiteratury{
+	background-color: rgba(200,200,200,0.8);
+	border-style: none;
+}
+#dvaroky{
+	background-color: rgba(255,255,255,0.8);
+	border-style: solid;
+	border-color: gray;
+	border-width: 5px;
+	
+}
+#kniha{
+	float: right;
+	width:10%;
+	height:10%;
+}
+.proTriPrvky {
+  border: /*silný nepøerušovaný šedý*/;
+  background-color: rgba(255,255,255,0.8);
+  display: flex;
+  align-items: center;
+	border-style: solid;
+	border-color: gray;
+	border-width: 5px;
+		
+
+}
+.odkazzpet {
+	color: black;
+	border-style: solid;
+	border-color: gray;
+	border-width: 5px;
+	background-color: rgba(255,255,255,0.8);
+	text-align: center;
+
+}
+a{
+	color: black;
+}
+.proZivotopis{
+	text-indent: 30px;
+	font-style: italic;
+}

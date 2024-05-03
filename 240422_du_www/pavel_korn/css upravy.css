@@ -1,0 +1,50 @@
+body{
+    background-image : url("background.png"); 
+    
+}
+h1 {
+position: relative;
+top: 18.5px;
+
+}
+hr {
+
+
+}
+blockquote{
+    font-style:italic;
+    
+}
+.nadpis{
+    border-style: solid;
+    background-color: rgba(255,255,255,0.8);
+    
+}
+
+
+.prvni{
+    background-color:rgba(255,255,255,0.8);
+    border-style: solid
+   ;
+}
+
+.treti{
+
+}
+
+.druha{
+    background-color:rgba(182, 182, 182, 0.8);
+    border-style: none
+   ;
+}
+
+.odkaz_na_rozcestnik{
+    text-align: center;
+    font-variant: small-caps;
+    text-decoration: overline;
+}
+
+.mandle{
+background-color: yellow;
+border-style: solid;
+}

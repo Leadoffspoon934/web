@@ -1,0 +1,36 @@
+body {
+  background-image: url(obrazky/pozadi.png);
+  }
+h1 {
+  border:  solid ;
+  text-indent: 2em;
+  }
+a {
+  font-weight: bold;
+  }
+span {
+  color: grey;
+  }  
+.zivotopis {
+  font-style: italic;
+  text-align: justify;
+  text-indent: 2em;
+  /*text-indent: -2em;
+  margin-left: 3em;*/
+  }
+.bibliografie {
+  background: silver;
+  line-height: 1.5;
+  }
+.nadtrzeni {
+  text-decoration: overline;
+  }
+img {
+  float: right;
+  }
+.neobtekat {
+  float: none;
+  vertical-align: middle;
+  }
+  
+  
